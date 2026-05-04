@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121268131873",
+    "project_id": "moviles2026-bfb92",
+    "storage_bucket": "moviles2026-bfb92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121268131873:android:d1af26e558ddc5a15fab60",
+        "android_client_info": {
+          "package_name": "com.example.taller2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXXgO4QMC9iFvhoDgYd2fht87PjjVvug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

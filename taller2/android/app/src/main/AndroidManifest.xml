@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Permiso requerido para conexión a internet (Firebase App Distribution) -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="taller2"
         android:name="${applicationName}"

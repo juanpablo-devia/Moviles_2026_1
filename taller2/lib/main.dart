@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.dark,
         scaffoldBackgroundColor: const Color(0xFF0D0D1A),
         colorScheme: const ColorScheme.dark(
-          primary: Color(0xFF7C4DFF), // violeta eléctrico
+          primary: Color(0xFF00E676), // verde neón v1.0.1
           secondary: Color(0xFF00E5FF), // cian neón
           tertiary: Color(0xFFFF4081), // rosa vibrante
           surface: Color(0xFF1A1A2E),
@@ -33,14 +33,14 @@ class MyApp extends StatelessWidget {
             fontWeight: FontWeight.w600,
             letterSpacing: 1.2,
           ),
-          iconTheme: IconThemeData(color: Color(0xFF7C4DFF)),
+          iconTheme: IconThemeData(color: Color(0xFF00E676)),
         ),
         cardTheme: CardThemeData(
           color: const Color(0xFF1A1A2E),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(20),
             side: BorderSide(
-              color: const Color(0xFF7C4DFF).withOpacity(0.3),
+              color: const Color(0xFF00E676).withOpacity(0.3),
               width: 1,
             ),
           ),
@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            backgroundColor: const Color(0xFF7C4DFF),
+            backgroundColor: const Color(0xFF00E676),
             foregroundColor: Colors.white,
             shape: const StadiumBorder(),
             padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 14),
