@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791285946767",
+    "project_id": "moviles2026-firebase",
+    "storage_bucket": "moviles2026-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791285946767:android:627afd2330ad86860813fa",
+        "android_client_info": {
+          "package_name": "com.example.taller4_firebase_universidades"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVKDBUgVNQRjp6Y0DZI64YxGE2-eBp_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
